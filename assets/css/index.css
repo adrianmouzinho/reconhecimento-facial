@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* video {
+  height: 560px;
+  width: 100%;
+  max-width: 720px;
+} */
+
+canvas {
+  position: absolute;
+}
